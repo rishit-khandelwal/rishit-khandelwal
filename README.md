@@ -1,6 +1,9 @@
-### Hi there :smile:
+# I Am Rishit Khandelwal
+### and I like coding and programming
+## along with drawing
+### and also a bit **of** *animation*
+#### but I :smiley: also like image editing, doodles, e-mailing people :laugh:, and much more
 
-<img src="./python.svg">
 <!--
 **rishit-khandelwal/rishit-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
