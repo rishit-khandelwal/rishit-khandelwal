@@ -1,6 +1,6 @@
 ### Hi there :smile:
 
-<img src="https://github.com/rishit-khandelwal/rishit-khandelwal/python.svg">
+<img src="./python.svg">
 <!--
 **rishit-khandelwal/rishit-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
