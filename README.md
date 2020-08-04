@@ -2,7 +2,7 @@
 ### and I like coding and programming
 ## along with drawing
 ### and also a bit **of** *animation*
-#### but I :smiley: also like image editing, doodles, e-mailing people :laugh:, and much more
+#### but I :smiley: also like image editing, doodles, e-mailing people :laughing:, and much more
 
 <!--
 **rishit-khandelwal/rishit-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
