@@ -1,8 +1,13 @@
 # I Am Rishit Khandelwal
-### and I like coding and programming
-## along with drawing
-### and also a bit **of** *animation*
-#### but I :smiley: also like image editing, doodles, e-mailing people :laughing:, and much more
+
+- I learning React & Rust.
+- Reach me on discord: RK#9366
+
+My stats -
+![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=rishit-khandelwal)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-khandelwal)
+
 
 <!--
 **rishit-khandelwal/rishit-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,8 +15,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... React & Rust!
+- 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
