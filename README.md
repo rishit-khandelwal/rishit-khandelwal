@@ -1,6 +1,6 @@
 # I Am Rishit Khandelwal
 
-- I learning React & Rust.
+- I am learning React.
 - Reach me on discord: RK#9366
 
 My stats -
