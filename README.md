@@ -2,6 +2,7 @@
 
 - I am learning React.
 - Reach me on discord: [My server](https://discord.gg/aTsd2YKGyH)
+
 My stats -
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=rishit-khandelwal)
