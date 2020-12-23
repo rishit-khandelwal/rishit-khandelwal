@@ -1,8 +1,7 @@
 # I Am Rishit Khandelwal
 
 - I am learning React.
-- Reach me on discord: RK#9366
-
+- Reach me on discord: [My server](https://discord.gg/aTsd2YKGyH)
 My stats -
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=rishit-khandelwal)
