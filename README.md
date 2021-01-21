@@ -4,7 +4,8 @@
 
 ![I learning...](https://img.shields.io/badge/I%20am%20Learning%20Databases-blue?style=flat-square)
 
-![DiscordServer](https://img.shields.io/badge/My%20Discord%20Server-blue?style=flat-square)https://discord.gg/aTsd2YKGyH
+![DiscordServer](https://img.shields.io/badge/My%20Discord%20Server-blue?style=flat-square)
+https://discord.gg/aTsd2YKGyH
 
 My stats -
 
